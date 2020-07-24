@@ -68,5 +68,5 @@
         app:duration="300">
         <OnClick />
     </Transition>
-    
+
 </MotionScene>
